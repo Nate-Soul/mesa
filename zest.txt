@@ -1,0 +1,2 @@
+collect phone number, test if working
+pre-order on items on wishlist
